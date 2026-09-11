@@ -1,0 +1,122 @@
+commit 9b6e8ebd0c9a6b23ffd38050d357b764c79b71ae
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:55:26 2026 -0700
+
+    Update index.html
+
+commit 6f1de4d7cd29bd0f6e55d36f15d49e150d7be884
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:54:28 2026 -0700
+
+    Create README.md
+
+commit 0a58c2066d5351ed29c4a1637f9f5cd8ad7bb787
+Author: Jancarlos Garcia <Jancarlosgarcia0426@gmail.com>
+Date:   Fri Sep 11 13:46:52 2026 -0700
+
+    Update index.html
+    
+    added groupmates information
+
+commit 8a358b96b21944fbbf9c2092c16ee8b932511ae9
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:38:58 2026 -0700
+
+    update index.html with my me again
+
+commit 049978f27fdf1c94a45a269205dd5d4903cacf66
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:29:05 2026 -0700
+
+    Update index.html with partner changes
+
+commit 16be4486d81ef877757a51c411ac2d42a2299144
+Merge: 224e495 633543f
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:27:02 2026 -0700
+
+    Merge branch 'main' of https://github.com/Nyamyakemyonyo/CS3338-Homework-1
+
+commit 224e4959bcb32ea31fe522859e8f91dffb1884bc
+Merge: f37cdce 19bfeeb
+Author: lbanue18-a11y <lbanue18@calstatela.edu>
+Date:   Fri Sep 11 13:07:51 2026 -0700
+
+    Merge pull request #1 from lbanue18-a11y/feature-about-me for part 8
+    
+    Feature about me
+
+commit 19bfeeb6e41296c7efb5aed53b30b5ea376b3dd9
+Merge: e64fde3 f37cdce
+Author: lbanue18-a11y <lbanue18@calstatela.edu>
+Date:   Fri Sep 11 13:06:26 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 633543f532e1fd12e8e5f4f3027c2a61fc8df27f
+Merge: f37cdce a8e70a3
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:04:56 2026 -0700
+
+    Merge pull request #1 from Nyamyakemyonyo/feature-about-me
+    
+    Feature about me
+    updated placeholder text with proper info
+
+commit a8e70a3fd86eef33a8ecada4c8277b78a6757776
+Merge: 6c5949a f37cdce
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 13:04:32 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6c5949af9c17d28959ae966f3504e2805fbbc4fe
+Author: Nyamyakemyonyo <119353077+Nyamyakemyonyo@users.noreply.github.com>
+Date:   Fri Sep 11 12:56:33 2026 -0700
+
+    updated index.html with my info
+
+commit e64fde3aa3b7e339888dd6f6e23ba5a0477ac21c
+Author: lbanue18-a11y <lbanue18@calstatela.edu>
+Date:   Fri Sep 11 12:56:00 2026 -0700
+
+    Added personal info to index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
